@@ -6,7 +6,7 @@
 Este juego es una variación del juego mastermind, ya que en vez de colores he usado números.
 La idea del juego es que el servidor genere una combinación de 4 números aleatorios, la cual los usuarios tendrán que ir
 averiguando con 10 intentos cada uno. En el juego se pueden ir sumando jugadores a una partida ya iniciada, esa sería una mejora
-de cara a otro sprint, también que cada jugador tenga su turno respectivo, para poder mejorar el flujo de jugadores, pero de cara a algo funcional y es lo que pedía el enunciado.
+de cara a otro sprint, también que cada jugador tenga su turno respectivo, para poder mejorar el flujo de jugadores.
 
 ![hilos_1](media/masterMind.png)
 
